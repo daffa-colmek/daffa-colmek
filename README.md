@@ -10,13 +10,13 @@ Terima kasih sudah berkunjung! 😊
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-            <img src="https://files.catbox.moe/lm4duh.jpg" alt="Daffa's Image" width="300">
-    <h1>Hallo👋, aku Daffa seorang programming pemula</h1>
-    <p><strong>Nama:</strong> Daffa Aditya Pratama</p>
-    <p><strong>Umur:</strong> 15</p>
-    <p><strong>Pasangan:</strong> Sorasaki Hina</p>
-    <p><strong>Hobi:</strong> Coding dan bermain game</p>
-    <p><strong>Information:</strong> A boy who likes coding and playing games</p>
+    <h1>Hallo👋</h1>
+                <img src="https://files.catbox.moe/lm4duh.jpg" alt="Daffa's Image" width="300">
+    <p><strong>• Nama:</strong> Daffa Aditya Pratama</p>
+    <p><strong>• Umur:</strong> 15</p>
+    <p><strong>• Pasangan:</strong> Sorasaki Hina</p>
+    <p><strong>• Hobi:</strong> Coli</p>
+    <p><strong>• About:</strong> A boy who likes coding and playing games</p>
 </body>
 </html>
 
