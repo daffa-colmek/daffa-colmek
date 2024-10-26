@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Halo+kak;Aku+Daffa+😆++↓)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Halo+kak;Aku+Daffa+😆)
 
 <details>
-<summary>Click to see my introduction</summary>
+<summary>Click Here King👑</summary>
 
 <!DOCTYPE html>
 <html lang="en">
