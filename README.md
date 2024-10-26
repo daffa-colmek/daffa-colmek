@@ -12,10 +12,11 @@
 <body>
     <h1>Hallo👋</h1>
                 <img src="https://files.catbox.moe/lm4duh.jpg" alt="Daffa's Image" width="300">
-    <p><strong>• Nama:</strong> Daffa Aditya Pratama</p>
-    <p><strong>• Umur:</strong> 15</p>
-    <p><strong>• Pasangan:</strong> Sorasaki Hina</p>
-    <p><strong>• Hobi:</strong> Coli</p>
+    <p><strong>• Name:</strong> Daffa Aditya Pratama</p>
+    <p><strong>• Age:</strong> 15</p>
+    <p><strong>• Partner:</strong> Takanashi Hoshino</p>
+    <p><strong>• School:</strong> Abydos</p>
+    <p><strong>• Hoby:</strong> Coli</p>
     <p><strong>• About:</strong> A boy who likes coding and playing games</p>
 </body>
 </html>
