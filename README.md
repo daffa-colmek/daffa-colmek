@@ -20,7 +20,7 @@ Beginner developers who are not too good, a developer with standard skills who h
 ![](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=daffa-colmek&show_icons=true&theme=dracula)
 
 ### 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daffa-colmek&layout=compact&theme=dracula)
